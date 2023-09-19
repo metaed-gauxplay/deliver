@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "592206951593",
+    "firebase_url": "https://younger-maps-default-rtdb.firebaseio.com",
+    "project_id": "younger-maps",
+    "storage_bucket": "younger-maps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592206951593:android:ee41632a599571acab65b8",
+        "android_client_info": {
+          "package_name": "com.example.younger_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592206951593-7ukkrt08jj29dsndmjlbj09kn7ai8fhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr8bDZhZwFEt4CIfJqI4lHAdCNEFl-M-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592206951593-7ukkrt08jj29dsndmjlbj09kn7ai8fhn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "592206951593-q48p7j49f57ebtg16tsu6gjjmv4gbjh7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gauxplay.youngerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
